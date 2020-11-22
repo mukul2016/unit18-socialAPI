@@ -23,8 +23,8 @@ Once database is created and seeded
 💻 npm start
 
 ## video-walkthru
-https://drive.google.com/file/d/1tj_Ou0vEZmOVtDPr0h3keJytxpGErdl3/view
-https://drive.google.com/file/d/1ObYVHF0z6NTRwQyDFcZH4I2hSokTqKO3/view
+https://drive.google.com/file/d/1AbaXnb6uhryS5veZBKFujXH4RywurNYW/view
+https://drive.google.com/file/d/1DymrXJLUc7WmFGsAxWMXiFdA1wCnLxF0/view
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
